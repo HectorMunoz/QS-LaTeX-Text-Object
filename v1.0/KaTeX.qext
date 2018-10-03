@@ -1,0 +1,15 @@
+{
+	"name": "KaTeX",
+	"description": "Allows LaTeX syntax in Qlik Sense using the KaTex JS library. Good to write math formulas.",
+	"type": "visualization",
+	"version": "1.0.0",
+	"icon": "extension",
+	"author": "Héctor Muñoz B.",
+	"homepage": "http://www.datanrock.com",
+	"keywords": "qlik-sense, visualization",
+	"license": "MIT",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=3.0.x"
+	}
+}
